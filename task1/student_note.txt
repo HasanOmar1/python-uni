@@ -1,0 +1,5 @@
+Hasan Omar
+50/2
+I am practicing file handling in Python.
+Today's topic: Working with files
+Python is useful for handling data
